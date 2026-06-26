@@ -1,2 +1,2 @@
 # Machine-Learning
-Code for ML leaning
+learning and Coding for ML leaning
